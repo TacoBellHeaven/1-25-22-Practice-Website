@@ -1,0 +1,50 @@
+body {
+	background-color: black;
+	color: white;
+}
+h1 {
+	color: #bfa80d;
+	text-align: center;
+	margin: auto;
+	padding: 4px;
+}
+table {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid grey;
+	border-collapse: collapse;
+}
+td, th {
+	padding: 5px;
+	border: 1px solid grey;
+	border-collapse: collapse;
+	text-align: center;
+}
+header {
+	float: bottom-left;
+}
+.card {
+	margin: 2%;
+	width: 23vw;
+	float: left;
+	box-shadow: 5px 5px #252d2e;
+	background-color: #bfa80d;
+}
+.card-body {
+	color: white;
+	
+}
+.cards {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%;
+}
+.card::after {
+	content: "";
+	clear: both;
+	display: table;
+}
