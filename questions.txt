@@ -2,3 +2,4 @@ how can I make all the cards line up at the bottom?
 how can I make the 3 cards centered?
 how do I make the updated line appear at the bottom left?
 The validator checker doesn't like that I put the h1 tag inside a td tag, how would I fix this while retaining functionality?
+How can I make better spacing between the table headers (like to space out the grade and unit columns more)?
